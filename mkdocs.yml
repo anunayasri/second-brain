@@ -1,13 +1,20 @@
-site_name: My Book
+site_name: Second Brain
 site_description: My personal digital garden
-site_author: Lyz
-site_url: https://anunayasri.github.io/my-book
+site_author: Anunaya
+site_url: https://anunayasri.github.io/second-brain
 theme:
   name: material
   features:
-    - navigation.footer
-    - navigation.instant
+    # - navigation.footer
+    # - navigation.instant
+    # - navigation.tabs
+    # - navigation.sections
+    # - navigation.top
+    - navigation.path
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
+    - navigation.tracking
     - content.code.annotate
     - content.code.copy
     - search.suggest
@@ -31,14 +38,18 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 
-  # - media: '(prefers-color-scheme: light)'
-  #   scheme: default
-  #   primary: teal
-  #   accent: amber
-  #   toggle:
-  #     icon: material/lightbulb
-  #     name: Switch to dark mode
-  # - media: '(prefers-color-scheme: dark)'
-  #   scheme: slate
-  #   primary: teal
-  #   accent: amber
+nav:
+  - Brain: 
+    - index.md
+    - Folder1:
+      - folder1/f1_file1.md
+    - Folder2: 
+      - folder2/f2_file1.md
+  - Blog: 
+    - blog/index.md
+  - About: 
+    - about.md
+
+# pages:
+#   - Home: index.md
+#   - Folder1: folder1/f1_file1.md
