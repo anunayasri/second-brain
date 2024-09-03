@@ -4,6 +4,8 @@ site_author: Anunaya
 site_url: https://anunayasri.github.io/second-brain
 theme:
   name: material
+  font: 
+    text: Roboto Mono
   features:
     # - navigation.footer
     # - navigation.instant
@@ -26,7 +28,7 @@ theme:
       primary: teal
       accent: amber
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-sunny
         name: Switch to dark mode
 
     # Dark mode
@@ -35,7 +37,7 @@ theme:
       primary: teal
       accent: amber
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-night
         name: Switch to light mode
 
 nav:
@@ -49,6 +51,10 @@ nav:
     - blog/index.md
   - About: 
     - about.md
+
+plugins:
+  - blog
+  - search
 
 # pages:
 #   - Home: index.md
