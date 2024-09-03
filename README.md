@@ -2,11 +2,34 @@
 
 This repo stores all my public notes and blogs.
 
+## Using mkdocs 
+
+First time setup -
+
+```sh
+cd second-brain
+
+python -m venv .venv 
+source .venv/bin/activate
+
+pip install -r requirements.txt
+
+# new mkdcos project
+mkdocs new .
+```
+
+Making changes and testing -
+
+```sh
+# start the dev server
+mkdocs serve
+```
+
 ## TODO:
 
-- Add existing notes to the Brain section.
-- Add About section.
-- Add Blog section.
+- ✅ Add existing notes to the Brain section.
+- ✅ Add About section.
+- ✅ Add Blog section.
 
 ## References for developing this repo
 
