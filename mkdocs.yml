@@ -47,6 +47,14 @@ nav:
       - folder1/f1_file1.md
     - Folder2: 
       - folder2/f2_file1.md
+    - Software Engineering:
+      - My Local Setup: software-engg/local-setup.md
+      - My Neovim Workflow: software-engg/neovim.md
+      - Go Types: software-engg/go-types.md
+      - Go Concurrency: software-engg/go-concurrency.md
+      - Go Errors: software-engg/go-errors.md
+      - Python Concurrency: software-engg/python-concurrency.md 
+
   - Blog: 
     - blog/index.md
   - About: 
