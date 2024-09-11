@@ -1,7 +1,8 @@
 # Go Types
 
 "Regardless of the language, type touches every aspect of programming syntax. A
-good understand of types and pointers is critical to good programming." - Bill 
+good understand of types and pointers is critical to good programming." 
+- [William (Bill) Kennedy](https://x.com/goinggodotnet)
 
 Type provides 2 important info that is imp for the programmer and the compiler.
 
