@@ -64,6 +64,11 @@ plugins:
   - blog
   - search
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 extra:
   social:
     - icon: fontawesome/brands/linkedin
