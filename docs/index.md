@@ -7,6 +7,10 @@ my learnings from the various things I read and work upon. These include things
 from life advice, time management, software engineering etc. Hence, this space 
 was born.
 
+If you have suggestions about this space, you can reach out to me on
+[Linkedin](https://www.linkedin.com/in/anunayasrivastava/) or [X (formerly
+Twitter)](https://x.com/anunayasri).
+
 ## Visiting the Garden
 
 If this is your first visit, welcome! You might be overwhelmed by the amount of 
@@ -29,7 +33,7 @@ This space is in its nacent stage. It will be restructured and reformatted in
 multiple ways in the coming future.
 
 > Currently the garden has content about Software Enggineering particularly 
-> Python, Go
+> Python, Go.
 
 ## How is this Garden made?
 
