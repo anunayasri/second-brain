@@ -53,6 +53,8 @@ nav:
       - Recipes:
         - Python f-string: software-engg/recipes/python-fstrings.md
         - Python Dependencies: ./software-engg/recipes/python-dependencies.md
+    - Blog:
+      - blog/index.md
 
   - Blog: 
     - blog/index.md
@@ -77,7 +79,5 @@ extra:
       name: Anunaya on X
       link: https://x.com/anunayasri
 
-
-# pages:
-#   - Home: index.md
-#   - Folder1: folder1/f1_file1.md
+repo_name: anunayasri/second-brain
+repo_url: https://github.com/anunayasri/second-brain
