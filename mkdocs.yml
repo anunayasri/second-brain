@@ -42,6 +42,7 @@ theme:
 
 nav:
   - Brain: 
+    - index.md
     - Software Engineering:
       - My Local Setup: software-engg/local-setup.md
       - My Neovim Workflow: software-engg/neovim.md
