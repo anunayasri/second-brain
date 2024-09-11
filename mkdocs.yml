@@ -64,6 +64,16 @@ plugins:
   - blog
   - search
 
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      name: Anunaya on Linkedin
+      link: https://www.linkedin.com/in/anunayasrivastava/
+    - icon: fontawesome/brands/x-twitter
+      name: Anunaya on X
+      link: https://x.com/anunayasri
+
+
 # pages:
 #   - Home: index.md
 #   - Folder1: folder1/f1_file1.md
