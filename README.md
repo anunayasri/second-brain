@@ -25,6 +25,20 @@ Making changes and testing -
 mkdocs serve
 ```
 
+## Project layout
+
+```
+    mkdocs.yml    # The configuration file.
+    docs/
+        index.md  # The documentation homepage.
+        ...       # Other markdown pages, images and other files.
+    blogs/
+        index.md  # Blog homepage
+        posts/
+            ...   # Each entry is a blog post.
+
+```
+
 ## TODO:
 
 - ✅ Add existing notes to the Brain section.
