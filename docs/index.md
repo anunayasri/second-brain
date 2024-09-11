@@ -29,8 +29,9 @@ The idea is to have a knowledge repository 💡 which can grow over time. These 
 are like sapplings 🍀 which will be nurtured and grow in a beautiful garden 🌴. 
 The garden will bear fruits 🍊 for gardener and other people visiting the garden.
 
-This space is in its nacent stage. It will be restructured and reformatted in 
-multiple ways in the coming future.
+!!! note
+    This space is in its nacent stage. It will be restructured and reformatted
+    in multiple ways in the coming future.
 
 > Currently the garden has content about Software Enggineering particularly 
 > Python, Go.
