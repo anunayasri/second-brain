@@ -54,6 +54,8 @@ nav:
       - Go Concurrency: software-engg/go-concurrency.md
       - Go Errors: software-engg/go-errors.md
       - Python Concurrency: software-engg/python-concurrency.md 
+      - Recipes:
+        - Python f-string: software-engg/recipes/python-fstrings.md
 
   - Blog: 
     - blog/index.md
