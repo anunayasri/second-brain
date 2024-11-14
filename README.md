@@ -39,6 +39,13 @@ mkdocs serve
 
 ```
 
+## Create a new blog 
+
+```sh
+cd docs
+./newblog.sh
+```
+
 ## TODO:
 
 - ✅ Add existing notes to the Brain section.
