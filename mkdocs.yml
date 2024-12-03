@@ -53,6 +53,10 @@ nav:
       - Recipes:
         - Python f-string: software-engg/recipes/python-fstrings.md
         - Python Dependencies: ./software-engg/recipes/python-dependencies.md
+    - Networking:
+      - HTTP-HTTPS: networking/http-https.md
+    - Software Performance:
+      - software-performance/intro.md
     - Blog:
       - blog/index.md
 

@@ -37,3 +37,17 @@
 ### vifm
 
 ### envrc
+
+## Free up memory in local machine
+
+```sh
+# -a : remove all unused images, containers, networks etc
+docker system prune -a
+
+# Cleans cache at `go env GOCACHE`
+# -x : prints the remove commands
+go clean -cache -x  
+
+# delete module download cache ie `$GOHOME/pkg/mod`
+go clean -modcache -x 
+```

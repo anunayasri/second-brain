@@ -7,6 +7,13 @@ my learnings from the various things I read and work upon. These include things
 from life advice, time management, software engineering etc. Hence, this space 
 was born.
 
+> I want to write the software engineering content to create good mental 
+> models about conepts and tools such these can help in building better software.
+
+When I learn technologies or anything, I try to simply the basics. I intent to 
+dump my understanding in these writings Hopefully, this will help others to
+write correct and robust software.
+
 If you have suggestions about this space, you can reach out to me on
 [Linkedin](https://www.linkedin.com/in/anunayasrivastava/) or [X (formerly
 Twitter)](https://x.com/anunayasri).
