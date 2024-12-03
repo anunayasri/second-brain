@@ -2,6 +2,13 @@
 
 This repo stores all my public notes and blogs.
 
+## Making Changes to the Repo
+
+Make changes and commit to the `develop` branch. These changes will not be
+deployed to the production site. Once you are ready to deploy, merge it with
+`master` branch. A Github workflow will trigger and will deploy the changes the
+production website.
+
 ## Using mkdocs 
 
 First time setup -
