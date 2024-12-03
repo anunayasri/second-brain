@@ -50,6 +50,9 @@ nav:
       - Go Concurrency: software-engg/go-concurrency.md
       - Go Errors: software-engg/go-errors.md
       - Python Concurrency: software-engg/python-concurrency.md 
+      - Django: 
+        - Django web f/w: software-engg/django/index.md
+        - Working with Django: software-engg/django/working-with-django.md
       - Recipes:
         - Python f-string: software-engg/recipes/python-fstrings.md
         - Python Dependencies: ./software-engg/recipes/python-dependencies.md
