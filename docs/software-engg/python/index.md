@@ -16,6 +16,31 @@ sudo ln -s /usr/local/bin/python3 /usr/local/bin/python
 sudo ln -s /usr/local/bin/pip3 /usr/local/bin/pip
 ```
 
+### Install pyright
+
+Install via nvm
+```sh
+# Update the version number with the latest version
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.2/install.sh | bash
+
+# .shellrc file has the config to udpate env vars
+
+nvm --version
+
+# Install the latest version
+nvm install node
+```
+
+```sh
+npm install -g pyright
+```
+
+### Install ruff
+
+```sh
+brew install ruff
+```
+
 ## Working with a new project
 
 1. Check the python version: `python --version`.
